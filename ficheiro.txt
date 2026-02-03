@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   jose_     619       1 ?        14:17:41 usr/bin/mintty --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=C:\Program Files\Git\git-bash.exe -o AppName=Git Bash -i C:\Program Files\Git\git-bash.exe --store-taskbar-properties -- /usr/bin/bash --login -i 
+   jose_     620     619 pty0     14:17:41 /usr/bin/bash --login -i 
+   jose_     953     620 pty0     14:43:24 ps -fe 
